@@ -1,0 +1,71 @@
+@media only screen and (min-width: 913px){/*desktop*/
+    .logoDaTela{margin:40px 70px;}
+    .pedirUmaStarlink{margin:0 auto;font-size:50px;}
+    .texto1{margin:25px auto;width:560px;max-width:560px;font-size:18px;}
+    .botaoPedirAgora{margin:100px auto 0 auto;}
+    .texto2{margin:20px auto;flex-grow:1;}
+    .setaMais{margin:0 auto;margin-bottom:20px;}
+
+    .marketing{min-height:90vh;min-width:100%;max-width:100%;display:flex;align-items:center;}
+    .div1Marketing{margin-left:75px;flex-grow:1;max-width:460px;}
+    .div1MarketingI{margin:0 75px 0 auto;flex-grow:1;max-width:460px;}
+    .div2Marketing{max-width:460px;}
+    
+    .div3Marketing{position:absolute;min-width:50%;max-width:50%;height:100%;}
+    .div4Marketing{position:absolute;min-width:50%;max-width:50%;left:50%;}
+
+    .div3MarketingI{position:absolute;min-width:50%;max-width:50%;left:50%;height:100%;}
+    .div4MarketingI{position:absolute;min-width:50%;max-width:50%;}
+    
+    .texto1Div1Marketing{font-size:50px;}
+    .botaoPedirAgora2{width:200px;margin-top:30px;}
+
+    .campoViajeComAStarlink{margin-left:75px;max-width:490px;}
+
+    .divOpiniÃµes{padding:150px 0;}
+    .opinioesDeClientes{margin:50px;display:flex;}
+    .opiniÃ£o1{width:25%;}
+    .opiniÃ£o2{margin:0 auto;width:25%;}
+
+
+
+    .footer{height:100px;}
+}
+
+
+
+@media only screen and (max-width: 913px){/*mobile*/
+    #main{background-position: 70%}
+
+    .logoDaTela{margin:20px auto;}
+    .pedirUmaStarlink{margin:0 auto;font-size:30px;}
+    .texto1{margin:25px 20px;flex-grow:1;font-size:16px;line-height:22px;}
+    .botaoPedirAgora{margin:0 auto;}
+    .texto2{margin:20px;flex-grow:1;text-align:center;}
+    .setaMais{margin:auto;margin-bottom:20px;}
+
+    .marketing{min-width:100%;max-width:100%;display:flex;flex-flow:column;}
+    .div1Marketing{margin:0 20px;flex-grow:1;}
+    .div1MarketingI{margin:0 20px;flex-grow:1;}
+    .div2Marketing{flex-grow:1;}
+    
+    .div3Marketing{width:100%;height:500px;}
+    .div4Marketing{width:100%;}
+
+    .div3MarketingI{position:absolute;width:100%;height:500px;}
+    .div4MarketingI{position:absolute;width:100%;top:500px;background-color:#000000;}
+    .bug{height:871px;}
+
+    .texto1Div1Marketing{margin:25px 0;font-size:30px;}
+    .botaoPedirAgora2{flex-grow:1;margin:30px 0;}
+
+    .campoViajeComAStarlink{margin:20px;flex-grow:1;}
+
+    .divOpiniÃµes{padding:50px 0 0 0;}
+    .opinioesDeClientes{margin:25px 25px 0 25px;display:flex;flex-flow:column;}
+    .opiniÃ£o1{flex-grow:1;margin-bottom:50px;}
+    .opiniÃ£o2{flex-grow:1;margin-bottom:50px;}
+
+
+    .footer{height:60px;}
+}

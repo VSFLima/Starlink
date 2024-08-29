@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCtI0Hodo5o5dUb67FeUjDeA"/>
+ <id>yt:channel:tI0Hodo5o5dUb67FeUjDeA</id>
+ <yt:channelId>tI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+ <title>SpaceX</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA"/>
+ <author>
+  <name>SpaceX</name>
+  <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+ </author>
+ <published>2008-07-30T21:48:45+00:00</published>
+ <entry>
+  <id>yt:video:wly-YFGZbvA</id>
+  <yt:videoId>wly-YFGZbvA</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starship | 360 Video of Liftoff</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wly-YFGZbvA"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-11-21T17:06:43+00:00</published>
+  <updated>2023-11-21T17:15:14+00:00</updated>
+  <media:group>
+   <media:title>Starship | 360 Video of Liftoff</media:title>
+   <media:content url="https://www.youtube.com/v/wly-YFGZbvA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wly-YFGZbvA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Starship returned to integrated flight testing with its second launch from Starbase in Texas. While it didn’t happen in a lab or on a test stand, it was absolutely a test. What we did with this second flight will provide invaluable data to continue rapidly developing Starship.
+
+On November 18, 2023, Starship successfully lifted off at 7:02 a.m. CT from Starbase in Texas and achieved a number of major milestones, including all 33 Raptor engines on the Super Heavy Booster starting up successfully and, for the first time, completed a full-duration burn during ascent.
+
+This 360-degree view comes from the top of the launch tower at Starbase in Texas, providing a front row seat to watch liftoff of the world’s most powerful launch vehicle ever developed. 
+
+Follow us on X.com/SpaceX and go to spacex.com for more on this exciting flight.</media:description>
+   <media:community>
+    <media:starRating count="28028" average="5.00" min="1" max="5"/>
+    <media:statistics views="450228"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:18pCXD709TI</id>
+  <yt:videoId>18pCXD709TI</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starship | Preparing for Second Flight Test</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=18pCXD709TI"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-11-11T02:35:55+00:00</published>
+  <updated>2023-11-13T08:05:51+00:00</updated>
+  <media:group>
+   <media:title>Starship | Preparing for Second Flight Test</media:title>
+   <media:content url="https://www.youtube.com/v/18pCXD709TI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/18pCXD709TI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Starship is once more preparing for launch. 
+
+The second flight test of a fully integrated Starship will debut several upgrades to the vehicle and ground infrastructure, some as a direct result of lessons learned from Starship’s first flight test. Recursive improvement is essential as we work to build a fully reusable transportation system capable of carrying both crew and cargo to Earth orbit, help humanity return to the Moon, and ultimately travel to Mars and beyond.
+ 
+Follow us on X.com/SpaceX for updates on the upcoming flight test.</media:description>
+   <media:community>
+    <media:starRating count="46907" average="5.00" min="1" max="5"/>
+    <media:statistics views="1033396"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mq2hymWPN1I</id>
+  <yt:videoId>mq2hymWPN1I</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Falcon 1, Flight 4</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mq2hymWPN1I"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-11-11T01:23:36+00:00</published>
+  <updated>2023-11-11T01:23:36+00:00</updated>
+  <media:group>
+   <media:title>Falcon 1, Flight 4</media:title>
+   <media:content url="https://www.youtube.com/v/mq2hymWPN1I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mq2hymWPN1I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On September 28, 2008, Falcon 1 became the first privately developed liquid fuel rocket to reach Earth orbit.</media:description>
+   <media:community>
+    <media:starRating count="13452" average="5.00" min="1" max="5"/>
+    <media:statistics views="212081"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Iz6qdzVCN9g</id>
+  <yt:videoId>Iz6qdzVCN9g</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Crew-6 Mission | Undocking</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Iz6qdzVCN9g"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-09-03T11:25:43+00:00</published>
+  <updated>2023-11-10T06:08:15+00:00</updated>
+  <media:group>
+   <media:title>Crew-6 Mission | Undocking</media:title>
+   <media:content url="https://www.youtube.com/v/Iz6qdzVCN9g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Iz6qdzVCN9g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Sunday, September 3 at 7:05 a.m. ET, Dragon autonomously undocked from the International Space Station. After performing a series of departure burns to move away from the space station, Dragon will conduct multiple orbit-lowering maneuvers, jettison the trunk, and re-enter Earth’s atmosphere for splashdown off the coast of Florida approximately 17 hours later at 12:17 a.m. ET on Monday, September 4.
+
+Aboard the spacecraft will be Crew-6 NASA astronauts Stephen Bowen and Woody Hoburg, Rocosmos cosmonaut Andrey Fedyaev, and UAE (United Arab Emirates) astronaut Sultan Alneyadi, who flew to the space station on Dragon when Falcon 9 launched the spacecraft from Launch Complex 39A (LC-39A) at Kennedy Space Center in Florida on Thursday, March 2 at 12:34 a.m. ET.</media:description>
+   <media:community>
+    <media:starRating count="5121" average="5.00" min="1" max="5"/>
+    <media:statistics views="254114"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JBeJVN-0t2I</id>
+  <yt:videoId>JBeJVN-0t2I</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Space Development Agency’s Second Tranche 0 Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JBeJVN-0t2I"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-09-02T14:37:17+00:00</published>
+  <updated>2023-11-09T09:49:58+00:00</updated>
+  <media:group>
+   <media:title>Space Development Agency’s Second Tranche 0 Mission</media:title>
+   <media:content url="https://www.youtube.com/v/JBeJVN-0t2I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JBeJVN-0t2I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Saturday, September 2 at 7:25 a.m. PT, SpaceX launched the Space Development Agency’s second Tranche 0 mission to low-Earth orbit from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California. 
+
+The space vehicles launched during this mission will serve a part of SDA’s Proliferated Warfighter Space Architecture, a new layered network of satellites in low-Earth orbit and supporting elements that will provide global military communication and missile warning, indication, and tracking capabilities. 
+
+This was the thirteenth launch and landing of this Falcon 9 first stage booster, which previously launched Sentinel-6 Michael Freilich, DART, Transporter-7, Iridium OneWeb, and eight Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="10296" average="5.00" min="1" max="5"/>
+    <media:statistics views="232268"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:iFY7mtzsNKo</id>
+  <yt:videoId>iFY7mtzsNKo</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=iFY7mtzsNKo"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-09-01T02:32:44+00:00</published>
+  <updated>2023-11-20T19:50:47+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/iFY7mtzsNKo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/iFY7mtzsNKo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Thursday, August 31 at 10:21 p.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station in Florida. 
+
+This was the seventh flight for the first stage booster supporting this mission, which previously launched Crew-5, GPS III Space Vehicle 06, Inmarsat I6-F2, CRS-28, Intelsat G-37, and now two Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="7986" average="5.00" min="1" max="5"/>
+    <media:statistics views="188136"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bEsyo5WLFkQ</id>
+  <yt:videoId>bEsyo5WLFkQ</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Crew-7 | Approach and Docking</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bEsyo5WLFkQ"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-27T13:50:05+00:00</published>
+  <updated>2023-11-16T09:57:25+00:00</updated>
+  <media:group>
+   <media:title>Crew-7 | Approach and Docking</media:title>
+   <media:content url="https://www.youtube.com/v/bEsyo5WLFkQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bEsyo5WLFkQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Sunday, August 27 at 9:16 a.m. ET, SpaceX’s Dragon autonomously docked with the International Space Station. Almost 30 hours earlier at 3:27 a.m. ET, Falcon 9 launched the spacecraft and Crew-7 to orbit from Launch Complex 39A (LC-39A) at NASA’s Kennedy Space Center in Florida. 
+
+During their time on the orbiting laboratory, the crew will conduct science and technology demonstrations to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth.</media:description>
+   <media:community>
+    <media:starRating count="10784" average="5.00" min="1" max="5"/>
+    <media:statistics views="424443"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SEClIbWr3m0</id>
+  <yt:videoId>SEClIbWr3m0</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SEClIbWr3m0"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-27T01:18:40+00:00</published>
+  <updated>2023-08-27T06:58:11+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/SEClIbWr3m0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SEClIbWr3m0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>SpaceX is targeting Saturday, August 26 at 9:05 p.m. ET (01:05 UTC on August 27) for a Falcon 9 launch of 22 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Base in Florida. If needed, there are currently three additional launch opportunities starting at 9:56 p.m. ET (01:56 UTC) until 11:04 p.m. ET (03:04 UTC). Four backup opportunities are also currently available on Sunday, August 27 from 8:40 p.m. ET (00:40 UTC on August 28) until 10:39 p.m. ET (02:39 UTC).
+
+This is the third flight for the first stage booster supporting this mission, which previously launched the ESA Euclid mission and Ax-2. Following stage separation, the first stage will land on the Just Read the Instructions droneship, which will be stationed in the Atlantic Ocean.
+
+A live webcast of this mission will begin about five minutes prior to liftoff.</media:description>
+   <media:community>
+    <media:starRating count="7998" average="5.00" min="1" max="5"/>
+    <media:statistics views="223865"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5KeIAYTW8eQ</id>
+  <yt:videoId>5KeIAYTW8eQ</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Crew-7 Mission | Launch</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5KeIAYTW8eQ"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-26T08:05:43+00:00</published>
+  <updated>2023-08-28T15:06:16+00:00</updated>
+  <media:group>
+   <media:title>Crew-7 Mission | Launch</media:title>
+   <media:content url="https://www.youtube.com/v/5KeIAYTW8eQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5KeIAYTW8eQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Saturday, August 26 at 3:27 a.m. ET (07:27 UTC), Falcon 9 launched Dragon’s seventh operational human spaceflight mission (Crew-7) to the International Space Station from Launch Complex 39A (LC-39A) at NASA’s Kennedy Space Center in Florida. Following stage separation, Falcon 9’s first stage landed on Landing Zone 1 (LZ-1) at Cape Canaveral Space Force Station.
+
+Dragon will autonomously dock with the space station on Sunday, August 27 at approximately 8:39 a.m. ET (12:39 UTC). Follow Dragon and the crew’s flight below.
+
+During their time on the orbiting laboratory, the crew will conduct science and technology demonstrations to prepare for human exploration beyond low-Earth orbit and to benefit humanity on Earth, in addition to space station maintenance activities.
+
+The webcast will resume approximately two hours prior to docking.</media:description>
+   <media:community>
+    <media:starRating count="23049" average="5.00" min="1" max="5"/>
+    <media:statistics views="814465"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ENxZS6PUDuI</id>
+  <yt:videoId>ENxZS6PUDuI</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starship Super Heavy Static Fire</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ENxZS6PUDuI"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-25T17:42:14+00:00</published>
+  <updated>2023-11-15T21:33:12+00:00</updated>
+  <media:group>
+   <media:title>Starship Super Heavy Static Fire</media:title>
+   <media:content url="https://www.youtube.com/v/ENxZS6PUDuI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ENxZS6PUDuI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Live views of Starship Super Heavy Booster 9's second static fire. Stream will begin a few minutes before ignition. 
+
+As is the case with all developmental testing, this schedule is dynamic and likely to change, so be sure to stay tuned to our social media channels for updates.</media:description>
+   <media:community>
+    <media:starRating count="31725" average="5.00" min="1" max="5"/>
+    <media:statistics views="654244"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:agYuEAkEljw</id>
+  <yt:videoId>agYuEAkEljw</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=agYuEAkEljw"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-22T09:49:26+00:00</published>
+  <updated>2023-09-21T05:08:43+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/agYuEAkEljw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/agYuEAkEljw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Tuesday, August 22 at 2:37 a.m. PT, Falcon 9 launched 21 Starlink satellites to low-Earth orbit from Space Launch Complex 4E (SLC-4E) at Vandenberg Space Force Base in California.
+
+This was the 15th flight for the first stage booster supporting this mission, which previously launched Crew-1, Crew-2, SXM-8, CRS-23, IXPE, Transporter-4, Transporter-5, Globalstar FM15, ISI EROS C-3, and now six Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="9811" average="5.00" min="1" max="5"/>
+    <media:statistics views="199340"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rmlRxzxYlyM</id>
+  <yt:videoId>rmlRxzxYlyM</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rmlRxzxYlyM"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-17T03:50:40+00:00</published>
+  <updated>2023-11-16T02:47:53+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/rmlRxzxYlyM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rmlRxzxYlyM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Wednesday, August 16 at 11:36 p.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station in Florida.
+
+This was the 13th flight for the first stage booster supporting this mission, which previously launched CRS-22, Crew-3, Turksat 5B, Crew-4, CRS-25, Eutelsat HOTBIRD 13G, mPOWER-a, PSN SATRIA, and now five Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="8850" average="5.00" min="1" max="5"/>
+    <media:statistics views="235296"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aKrbUe2sNr0</id>
+  <yt:videoId>aKrbUe2sNr0</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aKrbUe2sNr0"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-11T05:29:56+00:00</published>
+  <updated>2023-08-12T20:41:51+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/aKrbUe2sNr0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aKrbUe2sNr0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Friday, August 11 at 1:17 a.m. ET, Falcon 9 launched 22 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station in Florida.
+
+This was the ninth flight for the first stage booster supporting this mission, which previously launched CRS-24, Eutelsat HOTBIRD 13F, OneWeb 1, SES-18 and SES-19, and now five Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="7985" average="5.00" min="1" max="5"/>
+    <media:statistics views="161964"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:alkJWrqffcw</id>
+  <yt:videoId>alkJWrqffcw</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=alkJWrqffcw"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-08T04:09:56+00:00</published>
+  <updated>2023-08-14T02:02:32+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/alkJWrqffcw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/alkJWrqffcw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>On Monday, August 7 at 8:57 p.m. PT, Falcon 9 launched 15 Starlink satellites to low-Earth orbit from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California.
+
+This was the fifth launch and landing for this Falcon 9 first stage booster, which previously launched SDA-0A and now four Starlink missions.</media:description>
+   <media:community>
+    <media:starRating count="9081" average="5.00" min="1" max="5"/>
+    <media:statistics views="254728"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1sGWUunA2mM</id>
+  <yt:videoId>1sGWUunA2mM</yt:videoId>
+  <yt:channelId>UCtI0Hodo5o5dUb67FeUjDeA</yt:channelId>
+  <title>Starlink Mission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1sGWUunA2mM"/>
+  <author>
+   <name>SpaceX</name>
+   <uri>https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA</uri>
+  </author>
+  <published>2023-08-07T02:54:07+00:00</published>
+  <updated>2023-09-21T09:09:49+00:00</updated>
+  <media:group>
+   <media:title>Starlink Mission</media:title>
+   <media:content url="https://www.youtube.com/v/1sGWUunA2mM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1sGWUunA2mM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>SpaceX is targeting Sunday, August 6 at 10:41 p.m. ET (02:41 UTC on August 7) for a Falcon 9 launch of 22 Starlink satellites to low-Earth orbit from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Base in Florida. If needed, there are two additional launch opportunities at 11:31 p.m. ET (03:31 UTC) and 12:22 a.m. ET on August 7 (04:22 UTC). Up to five backup opportunities are also available on Monday, August 7 starting at 8:35 p.m. ET (00:35 UTC August 8) until 11:57 p.m. ET (03:57 UTC). 
+
+This is the fourth flight for the first stage booster supporting this mission, which previously launched Crew-6, SES O3b mPOWER, and one Starlink mission. Following stage separation, the first stage will land on the A Shortfall of Gravitas droneship, which will be stationed in the Atlantic Ocean.
+
+A live webcast of this mission will begin about five minutes prior to liftoff.</media:description>
+   <media:community>
+    <media:starRating count="9114" average="5.00" min="1" max="5"/>
+    <media:statistics views="199211"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

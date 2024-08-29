@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCkRfArvrzheW2E7b6SVT7vQ"/>
+ <id>yt:channel:kRfArvrzheW2E7b6SVT7vQ</id>
+ <yt:channelId>kRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+ <title>YouTube Creators</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ"/>
+ <author>
+  <name>YouTube Creators</name>
+  <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+ </author>
+ <published>2013-05-06T21:25:34+00:00</published>
+ <entry>
+  <id>yt:video:qqiqlJEvTvg</id>
+  <yt:videoId>qqiqlJEvTvg</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>How Ads Work on YouTube: Videos, Shorts &amp; Live</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qqiqlJEvTvg"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-11-20T17:58:25+00:00</published>
+  <updated>2023-11-21T10:14:40+00:00</updated>
+  <media:group>
+   <media:title>How Ads Work on YouTube: Videos, Shorts &amp; Live</media:title>
+   <media:content url="https://www.youtube.com/v/qqiqlJEvTvg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qqiqlJEvTvg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>If you’re an eligible creator in the YouTube Partner Program, Ads are one of the many ways you can earn revenue from your videos, Shorts, and live streams. In this video, we’ll walk through a bit about advertiser-friendly guidelines, and how to enable and manage ads on YouTube. 
+
+For more info, check out these articles:
+https://support.google.com/youtube/answer/12929256
+https://support.google.com/youtube/answer/2467968
+https://support.google.com/youtube/answer/7438625
+https://support.google.com/youtube/answer/2467968
+https://support.google.com/youtube/answer/6332943
+https://support.google.com/youtube/answer/6162278
+
+00:00 Ads on YouTube
+00:17 Advertiser- friendly guidelines
+01:11 How Ads Work for Videos
+03:35 How Ads Work on Shorts
+04:23 How Ads Work on Live Streams
+
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="3280" average="5.00" min="1" max="5"/>
+    <media:statistics views="40148"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vF7elIoP-ME</id>
+  <yt:videoId>vF7elIoP-ME</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>✨YPP Updates✨, the NEW You Tab, plus How To Edit Your Channel's 'For You' Shelf 🙌 #shortsroundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vF7elIoP-ME"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-11-10T17:08:36+00:00</published>
+  <updated>2023-11-11T07:22:48+00:00</updated>
+  <media:group>
+   <media:title>✨YPP Updates✨, the NEW You Tab, plus How To Edit Your Channel's 'For You' Shelf 🙌 #shortsroundup</media:title>
+   <media:content url="https://www.youtube.com/v/vF7elIoP-ME?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vF7elIoP-ME/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4792" average="5.00" min="1" max="5"/>
+    <media:statistics views="37834"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pMfe1ufOEcE</id>
+  <yt:videoId>pMfe1ufOEcE</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>Shopping Timestamps &amp; Metrics, Tax Reminder, Watch Page Updates, and more | Creator Roundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pMfe1ufOEcE"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-11-10T17:08:26+00:00</published>
+  <updated>2023-11-22T19:30:04+00:00</updated>
+  <media:group>
+   <media:title>Shopping Timestamps &amp; Metrics, Tax Reminder, Watch Page Updates, and more | Creator Roundup</media:title>
+   <media:content url="https://www.youtube.com/v/pMfe1ufOEcE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pMfe1ufOEcE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Catch up with TeamYouTube on all the top news from the past month, including trending topics and product updates. Tune in for new episodes the first week of every month and use the timestamps below to skip to news interesting to you!
+
+00:00 | Intro
+00:03 | Shopping Updates
+01:14 | You tab
+01:32 | Watch Page Updates
+02:03| Tax Form Reminder
+02:50 | 'For You ' Shelf
+
+*Shopping Updates*
+https://support.google.com/youtube/answer/10191533
+https://support.google.com/youtube/answer/10191533
+https://support.google.com/youtube/answer/13376398
+
+*You tab*
+https://support.google.com/youtube/answer/9209643
+
+*Watch Page Updates*
+https://blog.youtube/news-and-events/youtube-new-features-2023
+https://www.youtube.com/watch?v=Hd59Oa3QzyA&amp;t=5s
+
+*Tax Form Reminder*
+https://support.google.com/youtube/answer/10391362
+https://support.google.com/youtube/answer/10391273
+https://support.google.com/youtube/answer/10390801
+
+*'For You' Shelf*
+https://support.google.com/youtube/answer/3219384
+
+
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="3977" average="5.00" min="1" max="5"/>
+    <media:statistics views="70250"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:C2cfVTGErXk</id>
+  <yt:videoId>C2cfVTGErXk</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>✨EFFECTS✨ Make Creating Shorts EASY and FUN 😋</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=C2cfVTGErXk"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-10-26T11:25:41+00:00</published>
+  <updated>2023-11-17T01:57:47+00:00</updated>
+  <media:group>
+   <media:title>✨EFFECTS✨ Make Creating Shorts EASY and FUN 😋</media:title>
+   <media:content url="https://www.youtube.com/v/C2cfVTGErXk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/C2cfVTGErXk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="4781" average="5.00" min="1" max="5"/>
+    <media:statistics views="52391"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WTXrn6y2cFU</id>
+  <yt:videoId>WTXrn6y2cFU</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>How to Create on YouTube: Videos, Shorts, Mobile Live Streaming, &amp; Posts from your phone</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WTXrn6y2cFU"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-10-17T16:34:08+00:00</published>
+  <updated>2023-11-09T00:38:39+00:00</updated>
+  <media:group>
+   <media:title>How to Create on YouTube: Videos, Shorts, Mobile Live Streaming, &amp; Posts from your phone</media:title>
+   <media:content url="https://www.youtube.com/v/WTXrn6y2cFU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WTXrn6y2cFU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this video, we’ll show you how to upload videos, create Shorts, live stream, and post to YouTube using the YouTube Mobile Main app. When you tap the Create (+) icon in the bottom of the YouTube app, you’ll see all these different options. You can swipe through them to create in the format you want.
+
+For more info, check out these articles:
+https://support.google.com/youtube/answer/57407
+https://support.google.com/youtube/answer/10343433
+https://support.google.com/youtube/answer/9228390
+https://support.google.com/youtube/answer/7124474
+
+0:00 Create on YouTube Mobile App
+0:23 Upload Video
+0:47 Create Shorts
+1:30 Mobile Live Stream
+2:37 Post to your Community
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="5559" average="5.00" min="1" max="5"/>
+    <media:statistics views="145516"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bPXcO_1y9lA</id>
+  <yt:videoId>bPXcO_1y9lA</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>Create on YouTube from your phone: Videos, Shorts, Live &amp; Posts</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bPXcO_1y9lA"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-10-17T16:32:07+00:00</published>
+  <updated>2023-11-11T11:24:41+00:00</updated>
+  <media:group>
+   <media:title>Create on YouTube from your phone: Videos, Shorts, Live &amp; Posts</media:title>
+   <media:content url="https://www.youtube.com/v/bPXcO_1y9lA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bPXcO_1y9lA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="6168" average="5.00" min="1" max="5"/>
+    <media:statistics views="53355"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dadctU59h4I</id>
+  <yt:videoId>dadctU59h4I</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>YouTube Create, New Community Guidelines System, Payment Activity in Studio &amp; more | Creator Roundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dadctU59h4I"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-10-13T16:00:25+00:00</published>
+  <updated>2023-11-22T19:15:27+00:00</updated>
+  <media:group>
+   <media:title>YouTube Create, New Community Guidelines System, Payment Activity in Studio &amp; more | Creator Roundup</media:title>
+   <media:content url="https://www.youtube.com/v/dadctU59h4I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dadctU59h4I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Catch up with TeamYouTube on all the top news from the past month, including trending topics and product updates. Tune in for new episodes the first week of every month and use the timestamps below to skip to news interesting to you!
+
+00:00 | Intro
+00:17 | YouTube Create App Open Beta
+00:47 | New Community Guidelines System
+01:40 | Payment Activity in Studio
+02:13 | New &amp; Returning Viewers in Analytics
+02:34 | YPP Country Expansion
+
+*YouTube Create*
+Full Video: https://youtu.be/dhLQS_XCG0g
+https://support.google.com/youtube/topic/13521391
+
+*New Community Guidelines System*
+Full VIdeo: https://youtu.be/m8jHLFAmPO0
+https://support.google.com/youtube/answer/9288567
+https://support.google.com/youtube/answer/2802032
+https://support.google.com/youtube/answer/9235777
+
+*YPP Availability Expansion*
+https://support.google.com/youtube/answer/72851
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="10308" average="5.00" min="1" max="5"/>
+    <media:statistics views="218923"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:om2WiDsHLso</id>
+  <yt:videoId>om2WiDsHLso</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>YouTube Partner Program: How to Make Money on YouTube</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=om2WiDsHLso"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-10-10T19:22:15+00:00</published>
+  <updated>2023-11-14T09:37:46+00:00</updated>
+  <media:group>
+   <media:title>YouTube Partner Program: How to Make Money on YouTube</media:title>
+   <media:content url="https://www.youtube.com/v/om2WiDsHLso?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/om2WiDsHLso/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The YouTube Partner Program (YPP) offers more ways to make money from your content and community than anywhere else. We'll walk through how to qualify, apply and get approved, and what features become available to you once you’re in - like Channel Memberships, Super Chat, Super Stickers, Super Thanks, YouTube Shopping, Advertising Revenue, and Premium Revenue.
+
+For more info, check out these resources:
+https://support.google.com/youtube/answer/72851
+https://support.google.com/youtube/topic/9153567
+https://support.google.com/youtube/topic/9240125
+https://support.google.com/youtube/answer/72857
+https://support.google.com/youtube/answer/94522
+https://support.google.com/youtube/answer/13429240
+
+0:00 Intro to Making Money on YouTube
+0:18 How to Apply for the YouTube Partner Program (YPP)
+1:32 How YPP Applications are Reviewed
+1:54 YPP Application Appeals &amp; Re-Applying
+2:34 Welcome to the YouTube Partner Program: Features to Make Money
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="9836" average="5.00" min="1" max="5"/>
+    <media:statistics views="310249"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ACLuay9Ro-o</id>
+  <yt:videoId>ACLuay9Ro-o</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>Edit Your Videos with the YouTube Create App🎬🎞️🙌</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ACLuay9Ro-o"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-09-21T14:30:49+00:00</published>
+  <updated>2023-11-12T23:01:36+00:00</updated>
+  <media:group>
+   <media:title>Edit Your Videos with the YouTube Create App🎬🎞️🙌</media:title>
+   <media:content url="https://www.youtube.com/v/ACLuay9Ro-o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ACLuay9Ro-o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The YouTube Create app lets you easily edit videos and Shorts right from your phone. No matter how simple or complex your ideas are, YouTube Create lets you bring them to life - completely free of charge. For more info and to download the app, check out the links below!
+
+Download the YouTube Create App here:
+https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.producer
+
+For more info on the YouTube Create App check out these resources:
+https://support.google.com/youtube/topic/13521391</media:description>
+   <media:community>
+    <media:starRating count="13292" average="5.00" min="1" max="5"/>
+    <media:statistics views="119140"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dhLQS_XCG0g</id>
+  <yt:videoId>dhLQS_XCG0g</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>NEW: YouTube Create App</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dhLQS_XCG0g"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-09-21T14:30:47+00:00</published>
+  <updated>2023-11-10T01:35:55+00:00</updated>
+  <media:group>
+   <media:title>NEW: YouTube Create App</media:title>
+   <media:content url="https://www.youtube.com/v/dhLQS_XCG0g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dhLQS_XCG0g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The YouTube Create app lets you easily edit videos and Shorts right from your phone. No matter how simple or complex your ideas are, YouTube Create lets you bring them to life - completely free of charge. For more info and to download the app, check out the links below!
+
+Download the YouTube Create App here:
+https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.producer
+
+For more info on the YouTube Create App check out these resources:
+https://support.google.com/youtube/topic/13521391
+
+00:00 Intro to YouTube Create 
+00:13 Create &amp; Edit Projects 
+01:44 Add Sounds &amp; Voice Over 
+03:11 Features to Elevate Your Project 
+04:32 Export Your Project
+04:49 Manage Your Projects
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="20002" average="5.00" min="1" max="5"/>
+    <media:statistics views="514393"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rffQb5N8c7s</id>
+  <yt:videoId>rffQb5N8c7s</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>How to ADD LINKS in your Shorts 🩳, Q&amp;A Stickers 🤓, and Channel Links ✨ #shortsroundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rffQb5N8c7s"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-09-08T17:47:11+00:00</published>
+  <updated>2023-09-09T08:27:41+00:00</updated>
+  <media:group>
+   <media:title>How to ADD LINKS in your Shorts 🩳, Q&amp;A Stickers 🤓, and Channel Links ✨ #shortsroundup</media:title>
+   <media:content url="https://www.youtube.com/v/rffQb5N8c7s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rffQb5N8c7s/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="5851" average="5.00" min="1" max="5"/>
+    <media:statistics views="56860"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zOgKTeB1fW8</id>
+  <yt:videoId>zOgKTeB1fW8</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>YPP &amp; Shorts Updates, Clips in Studio &amp; more | Creator Roundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zOgKTeB1fW8"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-09-08T17:18:39+00:00</published>
+  <updated>2023-11-09T21:47:56+00:00</updated>
+  <media:group>
+   <media:title>YPP &amp; Shorts Updates, Clips in Studio &amp; more | Creator Roundup</media:title>
+   <media:content url="https://www.youtube.com/v/zOgKTeB1fW8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zOgKTeB1fW8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Catch up with TeamYouTube on all the top news from the past month, including trending topics and product updates. Tune in for new episodes the first week of every month and use the timestamps below to skip to news interesting to you!
+
+00:00 | Intro
+00:18 | Shorts Related Videos
+00:54 | Prominent Channel Links
+01:21 | YPP Availability Expansion
+01:48 | Clips in YouTube Studio
+02:06 | Q&amp;A Stickers on Shorts
+
+*Shorts Related Videos*
+https://support.google.com/youtube/thread/229722002
+https://yt.be/help/slinks
+
+*Prominent Channel Links*
+https://support.google.com/youtube/thread/229722002
+https://support.google.com/youtube?p=channel_profile_links
+
+*YPP Availability Expansion*
+https://support.google.com/youtube/answer/72851
+
+*Q&amp;A Stickers on Shorts*
+https://support.google.com/youtube/answer/10343433?hl=en&amp;sjid=5971885960671965736-NA#zippy=%2Cadd-qa-sticker
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="11508" average="5.00" min="1" max="5"/>
+    <media:statistics views="318357"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IyOv7Yhxaaw</id>
+  <yt:videoId>IyOv7Yhxaaw</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>✨NEW✨ Add LINKS🔗 in your SHORTS🩳</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IyOv7Yhxaaw"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-08-31T16:05:06+00:00</published>
+  <updated>2023-11-10T18:06:35+00:00</updated>
+  <media:group>
+   <media:title>✨NEW✨ Add LINKS🔗 in your SHORTS🩳</media:title>
+   <media:content url="https://www.youtube.com/v/IyOv7Yhxaaw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IyOv7Yhxaaw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Shorts can now link viewers to more of your content – whether it's your latest video, another Short, or live stream!  To direct viewers to your other content from your Short, use the “Related Video” feature. Once you finish uploading your Short, open YouTube Studio on desktop, then go to “Content”. Click the details icon for your Short. Then find “Related Video”. Click the edit icon to add a link to the piece of content you want to direct viewers to. Make sure the content you link to is public or unlisted, and from the same channel as your Short. Then Save. Your Short will now have a link your viewers can easily tap  within the Shorts player. Try it out! And subscribe to the YouTube Creators Channel for more Shorts tips and updates!</media:description>
+   <media:community>
+    <media:starRating count="6269" average="5.00" min="1" max="5"/>
+    <media:statistics views="145388"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:m8jHLFAmPO0</id>
+  <yt:videoId>m8jHLFAmPO0</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>NEW: YouTube Community Guidelines System</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=m8jHLFAmPO0"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-08-29T15:21:21+00:00</published>
+  <updated>2023-11-06T23:40:28+00:00</updated>
+  <media:group>
+   <media:title>NEW: YouTube Community Guidelines System</media:title>
+   <media:content url="https://www.youtube.com/v/m8jHLFAmPO0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/m8jHLFAmPO0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>YouTube’s Community Guidelines outline what type of content is and isn’t allowed on YouTube. Starting today, creators will have the option of taking a specialized training course when they receive a Community Guidelines warning. Completion of the course will remove the warning from a creator’s channel — so long as they don’t violate the same policy for 90 days. And, while creators were previously given one warning throughout the lifetime of their channel, they’ll now get individual warnings depending on the specific policy they violate if they take the trainings. This means more opportunities to learn why their content may have crossed the line, and the ability to take multiple learning courses at the same time. We believe this update will help the vast majority of creators produce content that complies with our policies, and help keep YouTube a safe and responsible platform for everyone. 
+
+For more information about YouTube Community Guidelines, check out these resources:
+https://support.google.com/youtube/answer/9288567
+https://support.google.com/youtube/answer/2802032
+https://support.google.com/youtube/answer/9235777
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="36406" average="5.00" min="1" max="5"/>
+    <media:statistics views="1133526"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wCGQGLedXSc</id>
+  <yt:videoId>wCGQGLedXSc</yt:videoId>
+  <yt:channelId>UCkRfArvrzheW2E7b6SVT7vQ</yt:channelId>
+  <title>Posts &amp; Permissions Updates, Hide Upload Rankings, &amp; more | Creator Roundup</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wCGQGLedXSc"/>
+  <author>
+   <name>YouTube Creators</name>
+   <uri>https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ</uri>
+  </author>
+  <published>2023-08-07T16:45:10+00:00</published>
+  <updated>2023-11-16T11:51:35+00:00</updated>
+  <media:group>
+   <media:title>Posts &amp; Permissions Updates, Hide Upload Rankings, &amp; more | Creator Roundup</media:title>
+   <media:content url="https://www.youtube.com/v/wCGQGLedXSc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wCGQGLedXSc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Catch up with TeamYouTube on all the top news from the past month, including trending topics and product updates. Tune in for new episodes the first week of every month and use the timestamps below to skip to news interesting to you!
+
+00:00 | Intro
+00:16 | Hide Upload Ranking Details
+00:38 | Permissions on All Surfaces
+01:00 | Posts Updates
+
+*Permissions on All Surfaces*
+https://support.google.com/youtube/answer/9481328
+
+*Posts Updates*
+https://support.google.com/youtube/answer/7124474
+
+
+Subscribe and hit the bell to see new videos: https://goo.gl/So4XIG
+
+► Check out our Help Center: https://goo.gl/fBzr7</media:description>
+   <media:community>
+    <media:starRating count="16547" average="5.00" min="1" max="5"/>
+    <media:statistics views="556636"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

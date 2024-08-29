@@ -1,0 +1,29 @@
+@media only screen and (min-width: 913px){/*desktop*/
+    .logoDaTela{margin:40px 70px;}
+    .banner{display:block;}
+    .campoPrincipal{width:700px;height:calc(100vh - 207.22px);}    
+    .pedidoDaStarlink{margin:0;}
+    .caixaDeInformaÃ§Ã£o{width:500px;}
+    .imagemInformaÃ§Ã£o{margin-left:50px;min-width:380px;max-width:380px;}
+    .campoFinalizarPedido{width:450px;}
+    .pedidoFinalizadoViaPix{margin:16px;padding:16px;}
+    .pedidoFinalizadoViaBoleto{margin:16px;padding:16px;}
+    
+    
+    .footer{height:100px;}
+    }
+@media only screen and (max-width: 912px){/*mobile*/
+    .logoDaTela{margin:20px auto;}
+    .banner{display:none;}
+    .campoPrincipal{flex-grow:1;height:calc(100vh - 127.22px);}
+    .pedidoDaStarlink{margin:0 auto;}
+    .caixaDeInformaÃ§Ã£o{flex-grow:1;}
+    .imagemInformaÃ§Ã£o{margin:0 10px;flex-grow:1;}
+    .campoFinalizarPedido{margin:0 10px;flex-grow:1;}
+    .pedidoFinalizadoViaPix{margin:0;padding:20px 0;}
+    .pedidoFinalizadoViaBoleto{margin:0;padding:20px 0;}
+
+
+
+    .footer{height:60px;}
+    }
